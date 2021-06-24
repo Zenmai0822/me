@@ -10,4 +10,4 @@ I am currently a software engineer at Plaid Integrations team, working remotely.
 
 There is no app here (yet). Both hitori.io and htr.io were taken, I had no choice.
 
-[Résumé](static/resources/Guo_Nianmin.pdf) \| [Github](https://github.com/Zenmai0822) \| [MBTA Work Github](https://github.com/nianminguo) \| `mguo [at] mguo [dot] io`
+[Résumé](resources/Guo_Nianmin.pdf) \| [Github](https://github.com/Zenmai0822) \| [MBTA Work Github](https://github.com/nianminguo) \| `mguo [at] mguo [dot] io`
